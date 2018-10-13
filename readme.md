@@ -1,4 +1,4 @@
-### This is a test app for my first [npm module](http://www.cmpbook.com/stackroom.php?id=39852). Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
+### This is a test app for my first [npm module](https://www.npmjs.com/package/my_very_first_node_module). Make sure you have [Node.js](https://nodejs.org/en/download/) installed.
 ### Run following commands in terminal:
 #### Clone this project
 `git clone https://github.com/choricao/test_node_module.git`
