@@ -5,4 +5,4 @@
 #### Go into the project folder
 `cd test_node_module`
 #### Test it out!
-`node test.js`
+`node index.js`
